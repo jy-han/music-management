@@ -1,15 +1,15 @@
-# music-management
+# music-player-java-console-program
 
 A music management progrom run in the console. The function contains add main music list and your own list. Also can change the list contents like number of music, music name or singer and so on.
 
 The program contains three menus, list management, player management and main menu.
 
-main menu list this:
+main menu list is:
 *********************************************
-	            ** main menu **
-	             1--manage the play list
-	             2--manage the player
-               0--exit");
+	       ** main menu **
+	     1--manage the play list
+	     2--manage the player
+             0--exit
 *********************************************
 
 
